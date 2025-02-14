@@ -15,5 +15,5 @@ function createHeart() {
 setInterval(createHeart, 300);
 
 document.body.addEventListener('click', () => {
-    window.location.href = 'https://aronhdez23122005.github.io/mibautizo/sarahi.html';
+    window.location.href = 'https://aronhdez23122005.github.io/CARTAII/2.html';
 });
